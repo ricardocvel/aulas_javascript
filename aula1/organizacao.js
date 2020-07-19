@@ -1,0 +1,12 @@
+/*
+comentario
+*/
+
+/* 
+* comentario
+*/
+
+//comentaio
+
+
+
