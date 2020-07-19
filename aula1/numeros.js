@@ -13,6 +13,7 @@ console.log(media.toString(2)) // converte em binarioi
 console.log(typeof media)
 
 
+//para numeros infinitos, existe um tipo finit
 console.log(7/0)
 
 console.log("10.2" /2)
