@@ -1,4 +1,7 @@
+
 // Factory simples
+
+
 function criarPessoa() {
     return {
         nome: 'Ana',
@@ -7,3 +10,10 @@ function criarPessoa() {
 }
 
 console.log(criarPessoa())
+
+let patos = criarPessoa
+
+patos.nome = 'cahorro'
+patos.sobrenome ='cadela'
+
+console.log(patos)

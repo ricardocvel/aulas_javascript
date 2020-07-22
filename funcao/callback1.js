@@ -6,3 +6,12 @@ function imprimir(nome, indice) {
 
 fabricantes.forEach(imprimir)
 fabricantes.forEach(fabricante => console.log(fabricante))
+
+/*
+
+***  forEach   ****
+
+é uma função de array 
+
+
+*/
